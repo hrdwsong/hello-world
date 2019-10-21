@@ -1,2 +1,2 @@
 # hello-world
-learn how to use github
+I'm hrdws,hello!
